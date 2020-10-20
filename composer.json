@@ -1,0 +1,16 @@
+{
+  "name": "lasma/project",
+  "require": {
+    "guzzlehttp/guzzle": "~6.0",
+    "kub-at/php-simple-html-dom-parser": "1.9.1",
+    "maknz/slack": "^1.7",
+    "doctrine/dbal": "^2.10",
+    "vlucas/phpdotenv": "^5.0"
+  },
+  "authors": [
+    {
+      "name": "Lasma Medne",
+      "email": "lasma.medne@gmail.com"
+    }
+  ]
+}
